@@ -1,5 +1,5 @@
 # cowsay-lib
-this lib help you to create something funny with python.
+This lib help you to create something funny with python.
 to install this lib write this code in cmd :
      pip install cowsay
 .          cow say characters:
